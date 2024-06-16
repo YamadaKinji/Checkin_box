@@ -3,7 +3,7 @@ name: "zodgame"
 on:
   # schedule:
   #   - cron: "18 1 * * *"  # scheduled at 06:00 (UTC+8) everyday
-  # workflow_dispatch:
+  workflow_dispatch:
 
 env:
   # auto merge from y1ndan/genshin-impact-helper, default: false
